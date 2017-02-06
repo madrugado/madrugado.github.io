@@ -18,6 +18,6 @@ tagline: A List of Scientific Publications
 - Application Of Bigram To Automatic Text Classification. V. Malykh, M. Pashkin. Transactions of TPSA, 2014.
 
 ### In French:
-- ZebraNet Analysé dans le Modèle des Protocoles de Population. J. Beauquier, J. Burman, V. Malykh, ALGOTEL’11
+- [ZebraNet Analysé dans le Modèle des Protocoles de Population.](https://hal.inria.fr/inria-00586503v2/document) J. Beauquier, J. Burman, V. Malykh, ALGOTEL’11
 
 

@@ -3,7 +3,7 @@ layout: home
 title: Summary
 ---
 
-I am Research Scientist at Neural Systems and Deep Learning Lab, my field of study is Natiral Language Understanding, since NLU seems to be not possible without Deep Learning, the DL is my secondary area of interest. 
+I am Research Scientist at Neural Systems and Deep Learning Lab, my field of study is Natгral Language Understanding, since NLU seems to be not possible without Deep Learning, the DL is my secondary area of interest. 
 
 <br />
 My CV is available [here](resume/one-page-cv.pdf).

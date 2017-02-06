@@ -14,7 +14,7 @@ tagline: A List of Scientific Publications
 - Modeling of radio-exchange for traffic flow simulator. V. Malykh. Transactions of MIPT Science Conference, 2010.
 - Cluster system research for traffic flow simulator. V. Manuylov, V. Malykh. Transactions of MIPT Science Conference, 2010.
 - Agent-based modeling of traffic flows. Y. Panasiuk, V. Malykh et al. Transactions of MIPT Science Conference, 2010.
-- Recognition of augmented fields with usage of „Roulette“ algorithm. V. Malykh, V. Arlazarov, D. Sholomov, Proceedings of ISA RAS, 2013.
+- [Recognition of augmented fields with usage of „Roulette“ algorithm.](http://www.isa.ru/proceedings/images/documents/2013-63-4/t-4-13_35-38.pdf) V. Malykh, V. Arlazarov, D. Sholomov, Proceedings of ISA RAS, 2013.
 - Application Of Bigram To Automatic Text Classification. V. Malykh, M. Pashkin. Transactions of TPSA, 2014.
 
 ### In French:

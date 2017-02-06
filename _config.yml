@@ -1,16 +1,13 @@
-url:              https://ars-ashuha.ru
+url:              https://val.maly.hk
 
 owner:
-  name:           Arsenii Ashukha 
-  avatar:         avatar.png
-  bio:            I am a second year Master Student at MIPT, I do research at Bayes Group under supervision of prof. Dmitry Vetrov.
-  email:          ars.ashuha@gmail.com
-  linkedin: ars-ashuha
-  github: ars-ashuha
-  vk: ars.ashuha
-  facebook: ars.ashuha
-  flickr: 115219639@N03
-  telegram: arsashuha
+  name:           Valentin Malykh 
+  avatar:         058a54a.jpg
+  bio:            I am Research Scientist at Neural Systems and Deep Learning Laboratory at MIPT
+  email:          val@maly.hk
+  linkedin: val-malykh
+  github: madrugado
+  facebook: val.malykh
 
 # google_analytics: UA-52736040-1
 # google_verify: https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
@@ -18,10 +15,10 @@ owner:
 links:
   - title: Home
     url: /
-  - title: Slides
-    url: /slides/
-  - title: Projects
-    url: /projects/
+  - title: Presentations
+    url: /presentations/
+  - title: Publications
+    url: /publications/
 
 timezone:    Europe/Moscow
 future:      true

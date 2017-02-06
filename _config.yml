@@ -1,0 +1,51 @@
+url:              https://ars-ashuha.ru
+
+owner:
+  name:           Arsenii Ashukha 
+  avatar:         avatar.png
+  bio:            I am a second year Master Student at MIPT, I do research at Bayes Group under supervision of prof. Dmitry Vetrov.
+  email:          ars.ashuha@gmail.com
+  linkedin: ars-ashuha
+  github: ars-ashuha
+  vk: ars.ashuha
+  facebook: ars.ashuha
+  flickr: 115219639@N03
+  telegram: arsashuha
+
+# google_analytics: UA-52736040-1
+# google_verify: https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+
+links:
+  - title: Home
+    url: /
+  - title: Slides
+    url: /slides/
+  - title: Projects
+    url: /projects/
+
+timezone:    Europe/Moscow
+future:      true
+pygments:    true
+highlighter: rouge
+markdown:    kramdown
+kramdown:
+  extensions: ["strikethrough"]
+  
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

@@ -7,8 +7,8 @@ tagline: A List of Scientific Publications
 
 ### In English:
 - [A Supervised Approach for SentiRuEval Task on Sentiment Analysis of Tweets about Telecom and Financial Companies](http://www.dialog-21.ru/digests/dialog2015/materials/pdf/TutubalinaEVetal.pdf), Tutubalina E. V., Zagulova M. A., Ivanov V. V., Malykh V. A., Dialog Conference, 2015
-- Reproducing Russian NER Baseline Quality Without Additional Data, V. Malykh and A. Ozerin, The 3d International Workshop on Concept Discovery in Unstructured Data (CDUD), 2016 
-- Robust Word Vectors for Russian Language, V. Malykh, Artificial Intelligence and Natural Language (AINL), 2016
+- [Reproducing Russian NER Baseline Quality Without Additional Data](http://ceur-ws.org/Vol-1625/paper6.pdf), V. Malykh and A. Ozerin, The 3d International Workshop on Concept Discovery in Unstructured Data (CDUD), 2016 
+- [Robust Word Vectors for Russian Language](https://fruct.org/publications/abstract-AINL-FRUCT-2016/files/Mal.pdf), V. Malykh, Artificial Intelligence and Natural Language (AINL), 2016
 
 ### In Russian:
 - Modeling of radio-exchange for traffic flow simulator. V. Malykh. Transactions of MIPT Science Conference, 2010.

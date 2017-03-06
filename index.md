@@ -9,6 +9,7 @@ I am Research Scientist at Neural Systems and Deep Learning Lab, my field of stu
 My CV is available [here](resume/one-page-cv.pdf).
 
 ### News 
+- *[03.03.2017]* I've become a certified NVIDIA Deep Learning Instructor. I'll announce my workshops in a few weeks.
 - *[22.02.2017]* My new post at [Habrahabr.ru](https://habrahabr.ru/post/322404/) about history of Reinforcement Learning (in Russian).
 - *[19.02.2017]* I've finished tutorship at [DeepLearningCourse.ru](http://DeepLearningCourse.ru), all the materials fot this course could be found [here](https://github.com/DeepLearningCourse/DeepLearningCourse).
 - *[29.12.2016]* My new post at [Habrahabr.ru](https://habrahabr.ru/company/mipt/blog/318758/) about history of AI (in Russian).

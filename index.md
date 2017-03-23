@@ -3,13 +3,26 @@ layout: home
 title: Who am I
 ---
 
-I am Research Scientist at Neural Systems and Deep Learning Lab, my field of study is Natural Language Understanding, since NLU seems to be not possible without Deep Learning, the DL is my secondary area of interest. 
+I am Research Scientist at Neural Systems and Deep Learning lab, my field of study is Natural Language Understanding, since NLU seems to be not possible without Deep Learning, the DL is my secondary area of interest. 
+
+My publications could be found [here](./publications.md)
+
+I have wide experience in Information Retrieval:
+- I've launched (as part of a team) the Sputnik, Russian government-sponsored search engine.
+- I've worked on Yandex.News quality (ranking and clusterization).
+
+I also have experience with Computer Vision & Robotics:
+- I've developed CV for a robot (see below) & some aspects of Cognitive Technologies driver-assistant.
+- For the testing purposes, we've created a wheeled robot, where I was resposible for driving control (including the CV part).
 
 <br />
 My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](https://www.dropbox.com/s/ce0d73trfwtfc7h/academic_CV2.pdf?dl=1).
 
 ### News 
-- *[01.04.2017]* Preliminarily I'll be tutoring at Lobachevsky State University in Nizhni Novgorod.
+- *[22.04.2017]* I'll be giving lightning talk at [MLPrague](http://mlprague.com).
+- *[15.04.2017]* My workshop at Higher School of Economics in Moscow.
+- *[08.04.2017]* My workshop in Nizhny Novgorod at Lobachevsky U.
+- *[01.04.2017]* **CANCELED** Preliminarily I'll be tutoring at Lobachevsky State University in Nizhni Novgorod.
 - *[03.03.2017]* I've become a certified NVIDIA Deep Learning Instructor. I'll announce my workshops in a few weeks.
 - *[22.02.2017]* My new post at [Habrahabr.ru](https://habrahabr.ru/post/322404/) about history of Reinforcement Learning (in Russian).
 - *[19.02.2017]* I've finished tutorship at [DeepLearningCourse.ru](http://DeepLearningCourse.ru), all the materials fot this course could be found [here](https://github.com/DeepLearningCourse/DeepLearningCourse).

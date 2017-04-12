@@ -5,8 +5,10 @@ title: Who am I
 
 I am Research Scientist at Neural Systems and Deep Learning lab, my field of study is Natural Language Understanding, since NLU seems to be not possible without Deep Learning, the DL is my secondary area of interest. 
 
+<br />
 My publications could be found [here](./publications.md). If you want to read any publication, which is listed, but has no link, just write me an email.
 
+<br />
 I have wide experience in Information Retrieval:
 - I've launched (as part of a team) the Sputnik, Russian government-sponsored search engine.
 - I've worked on Yandex.News quality (ranking and clusterization).

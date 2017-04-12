@@ -20,6 +20,7 @@ I also have experience with Computer Vision & Robotics:
 - For the testing purposes, we've created a wheeled robot, where I was resposible for driving control (including the CV part).
 
 <br />
+
 My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](https://www.dropbox.com/s/ce0d73trfwtfc7h/academic_CV2.pdf?dl=1).
 
 ### News 

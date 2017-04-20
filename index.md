@@ -25,7 +25,7 @@ My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](h
 
 ### News 
 - *[22.04.2017]* I'll be giving lightning talk at [MLPrague](http://mlprague.com).
-- *[20.04.2017]* My new article at [Habrahabr.ru](https://habrahabr.ru/company/ods/blog/325432/) about Keras.
+- *[20.04.2017]* My new article at [Habrahabr.ru](https://habrahabr.ru/company/ods/blog/325432/) about Keras (in Russian).
 - *[15.04.2017]* My workshop at Higher School of Economics in Moscow.
 - *[12.04.2017]* I've decided to broadcast the updates from my [repo with papers](https://github.com/madrugado/deep-learning-nlp-rl-papers) to Twitter. So you can [subscribe there](https://twitter.com/madrugad0).
 - *[08.04.2017]* My workshop in Nizhny Novgorod at Lobachevsky U.

@@ -24,6 +24,8 @@ I also have experience with Computer Vision & Robotics:
 My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](https://www.dropbox.com/s/ce0d73trfwtfc7h/academic_CV2.pdf?dl=1).
 
 ### News 
+- *[04.05.2017]* I will be lecturer at [RuSSIR 2017 summer school](http://romip.ru/russir2017/). 
+- *[25.04.2017]* I've taken part in panel discussion at [MBLT conference](https://mblt.ru).
 - *[22.04.2017]* I'll be giving lightning talk at [MLPrague](http://mlprague.com).
 - *[20.04.2017]* My new article at [Habrahabr.ru](https://habrahabr.ru/company/ods/blog/325432/) about Keras (in Russian).
 - *[15.04.2017]* My workshop at Higher School of Economics in Moscow.

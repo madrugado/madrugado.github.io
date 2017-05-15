@@ -12,3 +12,4 @@ tagline: A List of Presentations' Materials
 ### Industry
 - [2014] Machine Learning Overview at Sputnik: [video](https://www.youtube.com/watch?v=2B7X7HvoWek) (in Russian)
 - [22.04.2017] Right Answers Learned with Reinforcement Learning (at MLPrague): [slides](pdf/MLPrague-presentation.pdf)
+- [25.04.2017] International Mobile Conference MBLT'17 Panel discussion about chat-bots: [video](https://www.youtube.com/watch?v=qw80di8SEAA) (in Russian)

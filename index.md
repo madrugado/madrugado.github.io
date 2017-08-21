@@ -24,7 +24,7 @@ I also have experience with Computer Vision & Robotics:
 My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](https://www.dropbox.com/s/ce0d73trfwtfc7h/academic_CV2.pdf?dl=1).
 
 ### News 
-- *[05.08.2017]* My article in RBC about wi(l)dely covered in press FAIR experiment on [language creation](http://www.rbc.ru/opinions/technology_and_media/04/08/2017/598453329a7947214bab8e50).
+- *[05.08.2017]* My article in RBC about wi(l)dely covered in press FAIR experiment on [language creation](http://www.rbc.ru/opinions/technology_and_media/04/08/2017/598453329a7947214bab8e50) (in Russian).
 - *[17.07.2017]* My [new article](https://habrahabr.ru/company/ods/blog/329410/
 ) on Habrahabr about word embeddings (in Russian).
 - *[02.06.2017]* My talk at Dialogue 2017 during Technology Day.

@@ -15,4 +15,6 @@ tagline: A List of Presentations' Materials
 - [25.04.2017] International Mobile Conference MBLT'17 Panel discussion about chat-bots: [video](https://www.youtube.com/watch?v=qw80di8SEAA) (in Russian)
 - [31.05.2017] Moscow Data Science Meetup. ConvAI baseline: [slides](pdf/ConAI.io-baseline.pdf) [video](https://www.youtube.com/watch?v=6bpz4dNSXTg) (in Russian)
 - [02.06.2017] Dialogue conference, Technology Day. Scoring Dialog Systems: [slides](pdf/Dialogue-2017.pdf)
-- [24.08.2017] RuSSIR summer school. Dialog Systems: [day1](pdf/RuSSIR-DS1.pdf) [day2](pdf/RuSSIR-DS2.pdf)
+- [24.08.2017] RuSSIR summer school. Dialog Systems: [day1](pdf/RuSSIR-DS1.pdf), [day2](pdf/RuSSIR-DS2.pdf)
+- [12.10.2017] GPU Technology Conference. NLP Workshop: TBA
+- [11.11.2017] [Gorod.IT](http://gorod.it) conference. Dialog Systems: Modern Perspective - [slides](pdf/Gorod.IT.pdf)

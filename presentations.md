@@ -10,7 +10,7 @@ tagline: A List of Presentations' Materials
 - [2016] Reproducing Russian NER Baseline Quality Without Additional Data at CDUD'16: TBA
 
 ### Industry
-- [2014] Machine Learning Overview at Sputnik: [video](https://www.youtube.com/watch?v=2B7X7HvoWek) (in Russian)
+- [11.2014] Machine Learning Overview at Sputnik: [slides](pdf/Sputnik_seminar2015.pdf) [video](https://www.youtube.com/watch?v=2B7X7HvoWek) (in Russian)
 - [22.04.2017] Right Answers Learned with Reinforcement Learning (at MLPrague): [slides](pdf/MLPrague-presentation.pdf) [video](https://www.youtube.com/watch?v=8xUEC5DStKA)
 - [25.04.2017] International Mobile Conference MBLT'17 Panel discussion about chat-bots: [video](https://www.youtube.com/watch?v=qw80di8SEAA) (in Russian)
 - [31.05.2017] Moscow Data Science Meetup. ConvAI baseline: [slides](pdf/ConAI.io-baseline.pdf) [video](https://www.youtube.com/watch?v=6bpz4dNSXTg) (in Russian)

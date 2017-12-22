@@ -16,5 +16,6 @@ tagline: A List of Presentations' Materials
 - [31.05.2017] Moscow Data Science Meetup. ConvAI baseline: [slides](pdf/ConAI.io-baseline.pdf) [video](https://www.youtube.com/watch?v=6bpz4dNSXTg) (in Russian)
 - [02.06.2017] Dialogue conference, Technology Day. Scoring Dialog Systems: [slides](pdf/Dialogue-2017.pdf)
 - [24.08.2017] RuSSIR summer school. Dialog Systems: [day1](pdf/RuSSIR-DS1.pdf), [day2](pdf/RuSSIR-DS2.pdf)
-- [12.10.2017] GPU Technology Conference. NLP Workshop: TBA
+- [12.10.2017] GPU Technology Conference. NLP Workshop: (slides and videos are available by request)
 - [11.11.2017] [Gorod.IT](http://gorod.it) conference. Dialog Systems: Modern Perspective - [slides](pdf/Gorod.IT.pdf)
+- [16.12.2017] Advances in NLP 2017, Data-elka, chez Yandex [slides](pdf/advances_in_nlp_2017.pdf) [video](https://www.youtube.com/watch?v=1Chk1Mi-yZ0) (in Russian)

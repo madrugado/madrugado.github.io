@@ -24,6 +24,7 @@ I also have experience with Computer Vision & Robotics:
 My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](https://www.dropbox.com/s/ce0d73trfwtfc7h/academic_CV2.pdf?dl=1).
 
 ### News 
+- *[19.01.2018]* Second part of previou [article](https://medium.com/@madrugado/advances-in-nlp-in-2017-part-ii-d8da391a3f01) on Medium about NLP in 2017.
 - *[16.12.2017]* My new [article](https://medium.com/@madrugado/advances-in-nlp-in-2017-b00e927fcc57) on Medium about NLP in 2017.
 - *[29.11.2017]* My first [article](https://medium.com/@madrugado/what-are-the-dialog-systems-or-something-about-eliza-9aefb551eaaa) on Medium about dialog systems.
 - *[24.09.2017]* My first radio appearance at Komsomolskaya Pravda station. The record is available [here](https://www.kp.ru/radio/guest/827003/) (in Russian).

@@ -20,4 +20,4 @@ tagline: A List of Presentations' Materials
 - [11.11.2017] [Gorod.IT](http://gorod.it) conference. Dialog Systems: Modern Perspective - [slides](pdf/Gorod.IT.pdf)
 - [16.12.2017] Advances in NLP 2017, Data-elka, chez Yandex [slides](pdf/advances_in_nlp_2017.pdf) [video](https://www.youtube.com/watch?v=1Chk1Mi-yZ0) (in Russian)
 - [19.05.2018] DeepPavlov library overview, DataFestBY2, Minsk [slides](pdf/DataFestBy_DeepPavlov.pdf) [video](https://www.youtube.com/watch?v=GkuAU-RRG5o) (in Russian)
-- [30.08.2018] [RuSSIR](http://romip.ru/russir2018) presentations: [day1](pdf/russir2018/day1.pdf) [day2](pdf/russir2018/day2.pdf)
+- [30.08.2018] [RuSSIR](http://romip.ru/russir2018) presentations: [day1](pdf/russir2018/day1.pdf), [day2](pdf/russir2018/day2.pdf)

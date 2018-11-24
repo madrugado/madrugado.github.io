@@ -8,6 +8,12 @@ tagline: A List of Presentations' Materials
 ### Scientific
 - [2016] Robust Word Vectors for Russian Language at AINL'16: [slides](pdf/ainl2016.pdf)
 - [2016] Reproducing Russian NER Baseline Quality Without Additional Data at CDUD'16: TBA
+- [2017] Generalizable Architecture for Robust Word Vectors Tested by Noisy Paraphrases, V. Malykh, The 6th International Conference On Analysis Of Images, Social Networks, And Texts (AIST), Moscow, Russia
+- [2018] Noise Robustness in Aspect Extraction Task. V. Malykh & T. Khakhulin. ISP RAS Open Conference, Moscow, Russia.
+- [2018] Named Entity Recognition in Noisy Domains. V. Malykh & V. Lyalin. International Conference on Artificial Intelligence Applications and Innovations. Limassol, Cyprus.
+- [2018] DeepPavlov: Open-Source Library for Dialogue Systems. M. Burtsev et al. ACL 2018 Demo Track, Melbourne, Australia.
+- [2018] Robust Word Vectors: Context-Informed Embeddings for Noisy Texts. V.Malykh et al. 4th Workshop on Noisy User Texts, Empirical Methods in Natural Language Processing, Brussels, Belgium.
+- [2018] What Did You Say? On Classification of Noisy Texts. V. Malykh & V. Lyalin. International Conference on Artificial Neural Networks «Neuroinformatics», Moscow, Russia.
 
 ### Industry
 - [11.2014] Machine Learning Overview at Sputnik: [slides](pdf/Sputnik_seminar2015.pdf) [video](https://www.youtube.com/watch?v=2B7X7HvoWek) (in Russian)

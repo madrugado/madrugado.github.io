@@ -12,7 +12,7 @@ My publications could be found [here](./publications.md). If you want to read an
 
 <br />
 I have worked at VK.com as Applied Research Scientist, and I have a couple of papers published describing my work there.
-Also I have worked as a Research Scientist at Neural Systems and Deep Learning lab of Moscow Institute of Physics and Technology, where I participated in research and development of [DeepPavlov library](https://deeppavlov.ai).
+Also I have worked as a Research Scientist at Neural Systems and Deep Learning lab of Moscow Institute of Physics and Technology, where I participated in research and development of <a href="https://deeppavlov.ai">DeepPavlov library</a>.
 
 I have wide experience in Information Retrieval:
 - I've launched (as part of a team) the Sputnik, Russian government-sponsored search engine.

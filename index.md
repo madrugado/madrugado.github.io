@@ -4,13 +4,15 @@ title: Who am I
 ---
 
 
-I am Applied Research Scientist at [VK.com](https://vk.com) and also doing some research projects with Neural Systems and Deep Learning lab, my field of study is Natural Language Understanding, since NLU seems to be not possible without Deep Learning, the DL is my secondary area of interest. 
+I am Senior Research Scientist at Huawei [Noah's Ark lab](http://www.noahlab.com.hk/) and also doing some research projects with [Kazan Federal University](https://kpfu.ru/eng), my field of study is Natural Language Understanding, since NLU seems to be not possible without Deep Learning, the DL is my secondary area of interest. 
 
 <br />
 
 My publications could be found [here](./publications.md). If you want to read any publication, which is listed, but has no link, just write me an email.
 
 <br />
+I have worked at VK.com as Applied Research Scientist, and I have a couple of papers published describing my work there.
+Also I have worked as a Research Scientist at Neural Systems and Deep Learning lab of Moscow Institute of Physics and Technology, where I participated in research and development of [DeepPavlov library](https://deeppavlov.ai).
 
 I have wide experience in Information Retrieval:
 - I've launched (as part of a team) the Sputnik, Russian government-sponsored search engine.
@@ -25,6 +27,7 @@ I also have experience with Computer Vision & Robotics:
 My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](https://www.dropbox.com/s/ce0d73trfwtfc7h/academic_CV2.pdf?dl=1).
 
 ### News 
+- *[31.10.2019]* I have received my *PhD cetrificate* from Ministry of Higher Education and Science of Russian Federation!
 - *[30.11.2018]* My new Medium publication on EMNLP proceedings in two parts: [first](https://medium.com/@madrugado/interesting-stuff-at-emnlp-part-i-4a79b5007eb1) and [second](https://medium.com/@madrugado/interesting-stuff-at-emnlp-part-ii-ce92ac928f16)
 - *[19.01.2018]* Second part of previous [article](https://medium.com/@madrugado/advances-in-nlp-in-2017-part-ii-d8da391a3f01) on Medium about NLP in 2017.
 - *[16.12.2017]* My new [article](https://medium.com/@madrugado/advances-in-nlp-in-2017-b00e927fcc57) on Medium about NLP in 2017.

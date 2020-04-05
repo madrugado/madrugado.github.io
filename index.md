@@ -29,8 +29,8 @@ I also have experience with Computer Vision & Robotics:
 My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](https://www.dropbox.com/s/ce0d73trfwtfc7h/academic_CV2.pdf?dl=1).
 
 ### News 
-- *[29.03.2020]* I will be presenting talk on Zero- and Few-Shot Text Classification at CodeFest in Novosibirsk, Russia.
-- *[31.10.2019]* I have received my **PhD cetrificate** from Ministry of Higher Education and Science of Russian Federation!
+- *[29.03.2020]* **CANCELED** I will be presenting talk on Zero- and Few-Shot Text Classification at CodeFest in Novosibirsk, Russia.
+- *[31.10.2019]* I have received my **PhD cetrification** by Ministry of Higher Education and Science of Russian Federation!
 - *[30.11.2018]* My new Medium publication on EMNLP proceedings in two parts: [first](https://medium.com/@madrugado/interesting-stuff-at-emnlp-part-i-4a79b5007eb1) and [second](https://medium.com/@madrugado/interesting-stuff-at-emnlp-part-ii-ce92ac928f16)
 - *[19.01.2018]* Second part of previous [article](https://medium.com/@madrugado/advances-in-nlp-in-2017-part-ii-d8da391a3f01) on Medium about NLP in 2017.
 - *[16.12.2017]* My new [article](https://medium.com/@madrugado/advances-in-nlp-in-2017-b00e927fcc57) on Medium about NLP in 2017.

@@ -4,7 +4,7 @@ title: Who am I
 ---
 
 
-I am Senior Research Scientist at Huawei [Noah's Ark lab](http://www.noahlab.com.hk/) and also doing some research projects with [Kazan Federal University](https://kpfu.ru/eng), my field of study is Natural Language Understanding, since NLU seems to be not possible without Deep Learning, the DL is my secondary area of interest. 
+I am Senior Research Scientist at Huawei [Noah's Ark lab](http://www.noahlab.com.hk/) and also doing some research projects with [Kazan Federal University](https://kpfu.ru/eng), my field of study is Natural Language Understanding, since NLU seems to be not possible without Deep Learning, the DL is my secondary area of interest. If you are a student and looking for thesis supervisor, you caould check my [teaching page](./teaching.md).
 
 <br />
 

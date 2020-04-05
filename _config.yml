@@ -21,6 +21,8 @@ links:
     url: /presentations/
   - title: Publications
     url: /publications/
+  - title: Teaching
+    url: /teaching/
 
 timezone:    Europe/Moscow
 future:      true

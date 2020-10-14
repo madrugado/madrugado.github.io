@@ -8,7 +8,7 @@ I am Senior Research Scientist at Huawei [Noah's Ark lab](http://www.noahlab.com
 
 <br />
 
-I have graduated from Moscow Institute of Physics and Technology with Major in Computer Science in 2009. I wrote my PhD thesis also there and defended it at Institute for Systems Programming, Russian Academy of Sciences in 2019. My PhD thesis and synopsis are available [here](https://www.ispras.ru/dcouncil/docs/diss/2019/malyh/malyh.php) (in Russian). The brief English version of the sinopsis is [published at ACL](https://www.aclweb.org/anthology/P19-2002/) last year.
+I have graduated from Moscow Institute of Physics and Technology with Major in Computer Science in 2009. I wrote my PhD thesis also there and defended it at Institute for Systems Programming, Russian Academy of Sciences in 2019. My PhD thesis and synopsis are available [here](https://www.ispras.ru/dcouncil/docs/diss/2019/malyh/malyh.php) (in Russian). The brief English version of the synopsis is [published at ACL](https://www.aclweb.org/anthology/P19-2002/) in 2019.
 My publications could be found [here](./publications.md). If you want to read any publication, which is listed, but has no link, just write me an email.
 
 <br />

@@ -4,7 +4,7 @@ title: Who am I
 ---
 
 
-I am Senior Research Scientist at Huawei [Noah's Ark lab](http://www.noahlab.com.hk/) and also doing some research projects with [Kazan Federal University](https://kpfu.ru/eng), my field of study is Natural Language Understanding, since NLU seems to be not possible without Deep Learning, the DL is my secondary area of interest. If you are a student and looking for thesis supervisor, you could check my [teaching page](./teaching.md).
+I am NLP Research Head at [MTS AI](https://mts.ai) and also doing some research projects with [ITMO University](https://en.itmo.ru/), my primary field of study is Natural Language Generation, since NLG seems to be not possible without Deep Learning, DL is my secondary area of interest. If you are a student and looking for thesis supervisor, you could check my [teaching page](./teaching.md).
 
 <br />
 
@@ -12,18 +12,12 @@ I have graduated from Moscow Institute of Physics and Technology with Major in C
 My publications could be found [here](./publications.md). If you want to read any publication, which is listed, but has no link, just write me an email.
 
 <br />
-I have worked at VK.com as Applied Research Scientist, and have a couple of papers published describing my work there.
-Also I have worked as a Research Scientist at Neural Systems and Deep Learning lab of Moscow Institute of Physics and Technology, where I participated in research and development of <a href="https://deeppavlov.ai">DeepPavlov library</a>.
-
-I have wide experience in Information Retrieval:
-- I've improved VK.com Support with FAQ recommedation.
-- I've worked on Yandex.News quality (ranking and clusterization).
-- I've launched (as part of a team) the Sputnik, Russian government-sponsored search engine.
+I have worked at VK.com as an Applied Research Scientist, and have a couple of papers published describing my work there. I've worked in Yandex as a ML Engineer.
+Also I have worked as a Research Scientist at Neural Systems and Deep Learning lab of Moscow Institute of Physics and Technology, where I participated in research and development of <a href="https://deeppavlov.ai">DeepPavlov library</a>. At Huawei Noah's Ark lab I held position of a Senior Research Scientist. Together with my team we published half a dozen of articles.
 
 I also have experience with Computer Vision & Robotics:
-- I've developed CV for a robot (see below) & some aspects of Cognitive Technologies driver-assistant.
-- For the testing purposes, we've created a wheeled robot, where I was resposible for driving control (including the CV part).
-
+- I've developed CV for a robot, a prototype of Cognitive Technologies driver assistant.
+- Now I am working on medical imaging as part of my teaching experience in ITMO University.
 <br />
 
 My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](https://www.dropbox.com/s/ce0d73trfwtfc7h/academic_CV2.pdf?dl=1).

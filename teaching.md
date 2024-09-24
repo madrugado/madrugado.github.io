@@ -5,13 +5,13 @@ title: Teaching Activities
 tagline: Courses and Themes for Theses
 ---
 
-## 2020
-- Natural Language Processing at Huawei University. A [post](https://habr.com/ru/company/huawei/blog/490700/) with class description (in Russian). 
+## 2024
+- Natural Language Processing at ODS.ai. [Link](https://ods.ai/tracks/nlp-course-autumn-2024).
 
 ### Theses
 - Summarization for Russian language.
 - Multi-Point Summarization.
-- Neural Topic Modeling with Capsules.
+- Neural Topic Modeling.
 
 If you are a student and have your own project related to summarization and/or neural topic modeling, write me a messege.
 

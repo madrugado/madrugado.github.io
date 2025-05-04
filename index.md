@@ -22,7 +22,7 @@ I also have experience with Computer Vision & Robotics:
 
 My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](https://www.dropbox.com/s/ce0d73trfwtfc7h/academic_CV2.pdf?dl=1).
 
-### News 
+### (Outdated) News 
 - *[29.03.2020]* **CANCELED** I will be presenting talk on Zero- and Few-Shot Text Classification at CodeFest in Novosibirsk, Russia.
 - *[31.10.2019]* I have received my **PhD cetrification** by Ministry of Higher Education and Science of Russian Federation!
 - *[30.11.2018]* My new Medium publication on EMNLP proceedings in two parts: [first](https://medium.com/@madrugado/interesting-stuff-at-emnlp-part-i-4a79b5007eb1) and [second](https://medium.com/@madrugado/interesting-stuff-at-emnlp-part-ii-ce92ac928f16)
@@ -49,3 +49,6 @@ My short CV is available [here](resume/one-page-cv.pdf). The full CV is [here](h
 - *[19.02.2017]* I've finished tutorship at [DeepLearningCourse.ru](http://DeepLearningCourse.ru), all the materials for this course could be found [here](https://github.com/DeepLearningCourse/DeepLearningCourse).
 - *[29.12.2016]* My new post at [Habrahabr.ru](https://habrahabr.ru/company/mipt/blog/318758/) about history of AI (in Russian).
 - *[04.11.2016]* My article at [NPlus1.ru](https://nplus1.ru/material/2016/11/04/recurrent-networks) about RNNs (in Russian).
+
+### Services
+I do lectures and consulations by request. Please have a look at [public offer](./pdf/public_offer.pdf)

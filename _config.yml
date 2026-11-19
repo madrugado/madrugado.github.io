@@ -1,54 +1,40 @@
-url:              http://val.maly.hk
+title:       Valentin Malykh
+description: NLP researcher — natural language generation, summarization, LLMs.
+url:         https://val.maly.hk
+lang:        en
 
 owner:
-  name:           Valentin Malykh 
+  name:           Valentin Malykh
   avatar:         my_photo.jpg
-  bio:            I am Research Professor at International IT University, Almaty, Kazakhstan
+  bio:            NLP Research Head at MWS AI, Research Professor at IITU, Almaty.
   email:          val@maly.hk
-  linkedin: val-malykh
-  github: madrugado
-  # facebook: val.malykh
-  twitter: madrugad0
-  telegram: madrugado
-
-# google_analytics: UA-52736040-1
-# google_verify: https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+  google_scholar: Q-DWwNAAAAAJ
+  github:         madrugado
+  linkedin:       val-malykh
+  twitter:        madrugad0
+  telegram:       madrugado
 
 links:
-  - title: Home
+  - title: About
     url: /
-  - title: Presentations
-    url: /presentations/
   - title: Publications
     url: /publications/
+  - title: Talks
+    url: /presentations/
   - title: Teaching
     url: /teaching/
 
-timezone:    Europe/Moscow
-future:      true
-pygments:    true
-highlighter: rouge
+timezone:    Asia/Almaty
 markdown:    kramdown
-kramdown:
-  extensions: ["strikethrough"]
-  
+highlighter: rouge
 permalink:   /:categories/:title/
 
 kramdown:
+  input: GFM
   auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
-
-theme: jekyll-theme-tactile
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", ".bundle", ".jekyll-cache"]

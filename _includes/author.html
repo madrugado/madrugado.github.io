@@ -1,0 +1,11 @@
+{% assign o = site.owner %}
+<img class="avatar" src="{{ '/images/' | append: o.avatar | relative_url }}" alt="{{ o.name }}" width="180" height="270">
+<p class="bio">{{ o.bio }}</p>
+<ul class="social">
+  {% if o.email %}<li><a href="mailto:{{ o.email }}">{% include icon.html name="mail" %}{{ o.email }}</a></li>{% endif %}
+  {% if o.google_scholar %}<li><a href="https://scholar.google.com/citations?user={{ o.google_scholar }}">{% include icon.html name="scholar" %}Google Scholar</a></li>{% endif %}
+  {% if o.github %}<li><a href="https://github.com/{{ o.github }}">{% include icon.html name="github" %}GitHub</a></li>{% endif %}
+  {% if o.linkedin %}<li><a href="https://www.linkedin.com/in/{{ o.linkedin }}">{% include icon.html name="linkedin" %}LinkedIn</a></li>{% endif %}
+  {% if o.telegram %}<li><a href="https://t.me/{{ o.telegram }}">{% include icon.html name="telegram" %}Telegram</a></li>{% endif %}
+  {% if o.twitter %}<li><a href="https://x.com/{{ o.twitter }}">{% include icon.html name="x" %}X / Twitter</a></li>{% endif %}
+</ul>

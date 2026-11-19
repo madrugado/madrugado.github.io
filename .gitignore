@@ -158,3 +158,10 @@ pythontex-files-*/
 
 # Latexian
 TSWLatexianTemp*
+
+# Jekyll
+_site/
+.jekyll-cache/
+.bundle/
+vendor/
+Gemfile.lock

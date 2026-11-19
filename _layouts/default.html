@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="topbar">
+    <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <nav>
+      {% for link in site.links %}
+        {% assign active = false %}
+        {% if page.url == link.url %}{% assign active = true %}{% endif %}
+        <a href="{{ link.url | relative_url }}"{% if active %} aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </header>
+
+  <div class="wrap">
+    <aside class="sidebar">
+      {% include author.html %}
+    </aside>
+    <main>
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </main>
+  </div>
+
+  <footer class="footer">
+    &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}
+  </footer>
+</body>
+</html>

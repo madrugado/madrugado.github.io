@@ -17,6 +17,10 @@ description: Slides and videos of talks by Valentin Malykh.
 - **2016** — Reproducing Russian NER Baseline Quality Without Additional Data. *CDUD 2016*.
 
 ### Industry & schools
+- **2026** — NLP: year in review 2025, Data Ёлка (ODS). [video](https://www.youtube.com/watch?v=Tm7tEuF7vzo) <span class="muted">(ru)</span>
+- **13.11.2023** — How we build a programmer's assistant (NLP for code), [PiterPy 2023](https://piterpy.com/en/archive/2023/persons/d6fc27c34a034310ab620a76e71a02a7/), St. Petersburg. [slides](https://squidex.jugru.team/api/assets/srm/6d88bed6-77f2-479e-abf7-17d727c7f9ed/nlp-for-code.pdf) <span class="muted">(ru)</span>
+- **27.11.2020** — Organizer, [Huawei NLP Workshop](https://huawei-university.github.io/nlpworkshop/), online
+- **2019** — NLP: year in review 2019, Data Ёлка (ODS). [video](https://www.youtube.com/watch?v=cdlAUcaOCDY) <span class="muted">(ru)</span>
 - **30.08.2018** — [RuSSIR 2018](http://romip.ru/russir2018) lectures: [day 1](/pdf/russir2018/day1.pdf), [day 2](/pdf/russir2018/day2.pdf)
 - **19.05.2018** — DeepPavlov library overview, DataFest Minsk. [slides](/pdf/DataFestBy_DeepPavlov.pdf) · [video](https://www.youtube.com/watch?v=GkuAU-RRG5o) <span class="muted">(ru)</span>
 - **16.12.2017** — Advances in NLP 2017, Data Ёлка at Yandex. [slides](/pdf/advances_in_nlp_2017.pdf) · [video](https://www.youtube.com/watch?v=1Chk1Mi-yZ0) <span class="muted">(ru)</span>

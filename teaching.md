@@ -15,7 +15,7 @@ description: Courses taught by Valentin Malykh and topics for student theses.
 - Neural topic modeling
 
 ## Courses
-- **2024** — Natural Language Processing, [ODS.ai](https://ods.ai/tracks/nlp-course-autumn-2024)
+- **2022–2026** — Natural Language Processing and LLMs, open course at ODS.ai, spring and autumn streams: [autumn 2026](https://ods.ai/tracks/nlp-course-autumn-2026), [autumn 2025](https://ods.ai/tracks/nlp-course-autumn-2025), [autumn 2024](https://ods.ai/tracks/nlp-course-autumn-2024), [spring 2022](https://ods.ai/tracks/nlp-course-spring-22)
 - **2017–2018** — Deep Learning in NLP (spring & fall), MIPT / DeepPavlov — [edu.ipavlov.ai](https://edu.ipavlov.ai)
 - **2017–2018** — Machine Learning, MIPT — [ml-mipt.github.io](https://ml-mipt.github.io)
 - **2017** — Lecturer at the [RuSSIR 2017](http://romip.ru/russir2017/) and RuSSIR 2018 summer schools
